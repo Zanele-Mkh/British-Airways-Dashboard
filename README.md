@@ -1,0 +1,1 @@
+An interactive Tableau dashboard that visualizes traveler reviews across service categories like Seat Comfort, Cabin Service, and Food & Beverages. Features include dynamic filters, clean decimal formatting, and easy comparison by traveller type and class.
